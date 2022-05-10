@@ -1,0 +1,1 @@
+export const default_network = "goerli_development"
